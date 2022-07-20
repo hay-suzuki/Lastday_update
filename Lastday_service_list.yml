@@ -1,2 +1,4 @@
 packages:
-         - httpd.x86_64
+         - python.x86_64
+         - tar.x86_64
+
